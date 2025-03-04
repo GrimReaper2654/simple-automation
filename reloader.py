@@ -1,4 +1,4 @@
-# -------------------------- Instructions --------------------------
+# -------------------------- Description ---------------------------
 # 
 # Spam page reload, useful for botting views on dumb sites.
 #

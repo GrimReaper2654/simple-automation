@@ -1,4 +1,4 @@
-# -------------------------- Instructions --------------------------
+# -------------------------- Description ---------------------------
 # 
 # Run the program, then switch to the window with the chat.
 # Click on the text input and the program will automatically copy 

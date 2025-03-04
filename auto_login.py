@@ -1,4 +1,4 @@
-# -------------------------- Instructions --------------------------
+# -------------------------- Description ---------------------------
 # 
 # Keep forgetting your password? Shitty application not letting you
 # copy paste it? Passwords too secure, not enough vulnerabilities?

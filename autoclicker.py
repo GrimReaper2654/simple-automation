@@ -1,4 +1,4 @@
-# -------------------------- Instructions --------------------------
+# -------------------------- Description ---------------------------
 # 
 # There is no autoclicker on mac so I made one
 #

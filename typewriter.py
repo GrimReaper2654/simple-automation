@@ -1,4 +1,4 @@
-# -------------------------- Instructions --------------------------
+# -------------------------- Description ---------------------------
 # 
 # Run the program, it will write stuff. Edit the phrase to suit 
 # your needs.
